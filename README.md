@@ -5,7 +5,4 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer as well as java developer.
-* 🎨 I'm a self-taught python programmer.
-* 📱 I can make apps for Android and iOS.
-* 🎓 I'm a Computer Science student (graduating in April 2026)
+. I am currently learning full stack web development.
